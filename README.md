@@ -4,3 +4,4 @@
 - [commit使用emoji](https://github.com/simonyouth/Blog/issues/2)
 - [对象数据去重](https://github.com/simonyouth/Blog/issues/3)
 - [react fetch download documents](https://github.com/simonyouth/Blog/issues/4)
+- [响应性能优化之gzip压缩代码](https://github.com/simonyouth/Blog/issues/6)
